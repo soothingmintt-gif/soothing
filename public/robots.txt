@@ -1,0 +1,7 @@
+# Replace https://bboggl.example below with the real production domain once deployed.
+User-agent: *
+Allow: /
+Disallow: /archive
+Disallow: /me
+
+Sitemap: https://bboggl.example/sitemap.xml

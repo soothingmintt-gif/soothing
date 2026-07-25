@@ -1,0 +1,28 @@
+.home-hero {
+  border-radius: var(--radius-card);
+  padding: 24px;
+  background: var(--grad-scrim), var(--grad);
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.home-hero-eyebrow {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+
+.home-hero h1 {
+  color: #fff;
+  font-size: 22px;
+  margin-bottom: 14px;
+  line-height: 1.35;
+}
+
+/* 배경이 항상 흰색으로 고정되어 있어 라이트/다크 모드와 무관하게 어두운 고정 텍스트색을 사용 */
+.home-hero .btn {
+  background: #fff;
+  color: #1a1a1a;
+}
