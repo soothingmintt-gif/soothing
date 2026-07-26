@@ -12,7 +12,7 @@ export function Footer() {
         <Link to="/privacy">{t('footerPrivacy', lang)}</Link>
         <Link to="/terms">{t('footerTerms', lang)}</Link>
       </div>
-      <p className="app-footer-copy">© {new Date().getFullYear()} Bboggl. {t('footerRights', lang)}</p>
+      <p className="app-footer-copy">© {new Date().getFullYear()} Yumming. {t('footerRights', lang)}</p>
     </footer>
   )
 }

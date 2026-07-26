@@ -15,13 +15,13 @@ export function TermsPage() {
         <p className="legal-updated">Last updated: {lastUpdated}</p>
 
         <p className="legal-paragraph">
-          These Terms govern your use of Bboggl (the "Service"), operated by [Business/Operator name]. By using the
+          These Terms govern your use of Yumming (the "Service"), operated by [Business/Operator name]. By using the
           Service, you agree to these Terms.
         </p>
 
         <h2 className="legal-heading">1. The Service</h2>
         <p className="legal-paragraph">
-          Bboggl recommends restaurants by time of day and neighborhood, and lets you keep private lists and post
+          Yumming recommends restaurants by time of day and neighborhood, and lets you keep private lists and post
           public reviews. Restaurant information shown is for reference only and may not reflect a restaurant's
           current hours, menu, or availability — always confirm with the restaurant directly.
         </p>
@@ -70,13 +70,13 @@ export function TermsPage() {
       <p className="legal-updated">최종 수정일: {lastUpdated}</p>
 
       <p className="legal-paragraph">
-        본 약관은 [사업자명/운영자명]이 제공하는 Bboggl(이하 "서비스")의 이용과 관련하여 필요한 사항을 정합니다.
+        본 약관은 [사업자명/운영자명]이 제공하는 Yumming(이하 "서비스")의 이용과 관련하여 필요한 사항을 정합니다.
         서비스를 이용함으로써 본 약관에 동의하는 것으로 간주됩니다.
       </p>
 
       <h2 className="legal-heading">1. 서비스 내용</h2>
       <p className="legal-paragraph">
-        Bboggl은 시간대·지역별 맛집 추천, 비공개 리스트 관리, 공개 리뷰 작성 기능을 제공합니다. 사이트에 표시되는
+        Yumming은 시간대·지역별 맛집 추천, 비공개 리스트 관리, 공개 리뷰 작성 기능을 제공합니다. 사이트에 표시되는
         식당 정보는 참고용이며 실제 영업시간, 메뉴, 예약 가능 여부와 다를 수 있으므로 방문 전 반드시 해당 식당에
         직접 확인하시기 바랍니다.
       </p>

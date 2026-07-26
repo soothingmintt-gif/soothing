@@ -9,7 +9,7 @@ export function TopHeader() {
 
   return (
     <header className="top-header">
-      <span className="top-header-logo">Bboggl</span>
+      <span className="top-header-logo">Yumming</span>
       <div className="top-header-actions">
         <LanguageToggle />
         <Link to="/explore" className="top-header-search" aria-label={t('searchAria', lang)}>

@@ -8,7 +8,7 @@ interface LanguageContextValue {
 
 const LanguageContext = createContext<LanguageContextValue | null>(null)
 
-const STORAGE_KEY = 'bboggl-lang'
+const STORAGE_KEY = 'yumming-lang'
 
 function getInitialLang(): Lang {
   if (typeof window === 'undefined') return 'ko'

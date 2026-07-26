@@ -11,7 +11,7 @@ export function SideNav() {
   return (
     <nav className="side-nav" aria-label="주요 메뉴">
       <div className="side-nav-top">
-        <div className="side-nav-logo">Bboggl</div>
+        <div className="side-nav-logo">Yumming</div>
         <LanguageToggle className="lang-toggle lang-toggle-side" />
       </div>
       <ul>

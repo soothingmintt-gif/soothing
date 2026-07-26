@@ -103,7 +103,7 @@ export const uiText = {
   hideCommentsToggle: { ko: '댓글 숨기기', en: 'Hide comments' },
   myPageTitle: { ko: '마이페이지', en: 'My Page' },
   myDisplayName: { ko: '나', en: 'Me' },
-  myHandle: { ko: '@bboggl_user', en: '@bboggl_user' },
+  myHandle: { ko: '@yumming_user', en: '@yumming_user' },
   statReviews: { ko: '작성 리뷰', en: 'Reviews' },
   statLists: { ko: '아카이브 리스트', en: 'Lists' },
   statSaved: { ko: '저장한 식당', en: 'Saved spots' },
@@ -193,16 +193,16 @@ const seoContent = {
     en: { title: 'My Page', description: 'See your reviews and archive lists at a glance.' },
   },
   about: {
-    ko: { title: '소개', description: 'Bboggl이 어떤 서비스인지 소개합니다.' },
-    en: { title: 'About', description: 'Learn what Bboggl is about.' },
+    ko: { title: '소개', description: 'Yumming이 어떤 서비스인지 소개합니다.' },
+    en: { title: 'About', description: 'Learn what Yumming is about.' },
   },
   privacy: {
-    ko: { title: '개인정보처리방침', description: 'Bboggl의 개인정보 수집 및 이용에 대한 안내입니다.' },
-    en: { title: 'Privacy Policy', description: "How Bboggl collects and uses your information." },
+    ko: { title: '개인정보처리방침', description: 'Yumming의 개인정보 수집 및 이용에 대한 안내입니다.' },
+    en: { title: 'Privacy Policy', description: "How Yumming collects and uses your information." },
   },
   terms: {
-    ko: { title: '이용약관', description: 'Bboggl 서비스 이용에 관한 약관입니다.' },
-    en: { title: 'Terms of Service', description: 'The terms governing your use of Bboggl.' },
+    ko: { title: '이용약관', description: 'Yumming 서비스 이용에 관한 약관입니다.' },
+    en: { title: 'Terms of Service', description: 'The terms governing your use of Yumming.' },
   },
 } as const
 

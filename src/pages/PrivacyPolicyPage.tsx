@@ -15,7 +15,7 @@ export function PrivacyPolicyPage() {
         <p className="legal-updated">Last updated: {lastUpdated}</p>
 
         <p className="legal-paragraph">
-          Bboggl ("we", "us") respects your privacy. This policy explains what information we collect, how we use
+          Yumming ("we", "us") respects your privacy. This policy explains what information we collect, how we use
           it, and the choices you have. <strong>Please replace the bracketed placeholders below with your real
           business details before publishing this site.</strong>
         </p>
@@ -35,7 +35,7 @@ export function PrivacyPolicyPage() {
           <li>Any content you voluntarily submit, such as reviews, comments, or list names.</li>
         </ul>
         <p className="legal-paragraph">
-          At this stage, Bboggl does not have user accounts or a backend database — all reviews and lists you create
+          At this stage, Yumming does not have user accounts or a backend database — all reviews and lists you create
           live only in your browser session and are not stored on our servers.
         </p>
 
@@ -76,7 +76,7 @@ export function PrivacyPolicyPage() {
       <p className="legal-updated">최종 수정일: {lastUpdated}</p>
 
       <p className="legal-paragraph">
-        Bboggl(이하 "본 사이트")은 이용자의 개인정보를 중요하게 생각하며, 관련 법령을 준수합니다. 아래
+        Yumming(이하 "본 사이트")은 이용자의 개인정보를 중요하게 생각하며, 관련 법령을 준수합니다. 아래
         <strong> 대괄호로 표시된 부분은 실제 서비스 운영 시 사업자 정보로 반드시 교체</strong>해야 합니다.
       </p>
 
@@ -90,7 +90,7 @@ export function PrivacyPolicyPage() {
         <li>이용자가 자발적으로 작성한 리뷰, 댓글, 리스트 이름 등의 콘텐츠.</li>
       </ul>
       <p className="legal-paragraph">
-        현재 Bboggl은 회원가입·로그인 기능과 서버 데이터베이스가 없는 프론트엔드 데모 단계입니다. 작성하신 리뷰와
+        현재 Yumming은 회원가입·로그인 기능과 서버 데이터베이스가 없는 프론트엔드 데모 단계입니다. 작성하신 리뷰와
         리스트는 브라우저 세션에만 존재하며 서버에 저장되지 않습니다.
       </p>
 

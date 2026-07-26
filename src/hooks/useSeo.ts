@@ -20,7 +20,7 @@ export function useSeo({
   noindex?: boolean
 }) {
   useEffect(() => {
-    const fullTitle = `${title} | Bboggl`
+    const fullTitle = `${title} | Yumming`
     document.title = fullTitle
     upsertMeta('name', 'description', description)
     upsertMeta('property', 'og:title', fullTitle)
