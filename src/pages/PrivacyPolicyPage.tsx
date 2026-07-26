@@ -16,14 +16,11 @@ export function PrivacyPolicyPage() {
 
         <p className="legal-paragraph">
           Yumming ("we", "us") respects your privacy. This policy explains what information we collect, how we use
-          it, and the choices you have. <strong>Please replace the bracketed placeholders below with your real
-          business details before publishing this site.</strong>
+          it, and the choices you have.
         </p>
 
         <h2 className="legal-heading">Operator</h2>
-        <p className="legal-paragraph">
-          [Business/Operator name], [registered address], [contact email]
-        </p>
+        <p className="legal-paragraph">Yumming (individually operated) — contact: soothingmintt@gmail.com</p>
 
         <h2 className="legal-heading">Information we collect</h2>
         <ul className="legal-list">
@@ -58,8 +55,8 @@ export function PrivacyPolicyPage() {
 
         <h2 className="legal-heading">Your rights</h2>
         <p className="legal-paragraph">
-          You may contact us at [contact email] to ask what data we hold about you, request corrections, or request
-          deletion.
+          You may contact us at soothingmintt@gmail.com to ask what data we hold about you, request corrections, or
+          request deletion.
         </p>
 
         <h2 className="legal-heading">Changes to this policy</h2>
@@ -76,12 +73,11 @@ export function PrivacyPolicyPage() {
       <p className="legal-updated">최종 수정일: {lastUpdated}</p>
 
       <p className="legal-paragraph">
-        Yumming(이하 "본 사이트")은 이용자의 개인정보를 중요하게 생각하며, 관련 법령을 준수합니다. 아래
-        <strong> 대괄호로 표시된 부분은 실제 서비스 운영 시 사업자 정보로 반드시 교체</strong>해야 합니다.
+        Yumming(이하 "본 사이트")은 이용자의 개인정보를 중요하게 생각하며, 관련 법령을 준수합니다.
       </p>
 
       <h2 className="legal-heading">운영자 정보</h2>
-      <p className="legal-paragraph">[사업자명/운영자명], [사업장 주소], [연락처 이메일]</p>
+      <p className="legal-paragraph">Yumming (개인 운영) — 문의: soothingmintt@gmail.com</p>
 
       <h2 className="legal-heading">수집하는 개인정보 항목</h2>
       <ul className="legal-list">
@@ -112,7 +108,7 @@ export function PrivacyPolicyPage() {
 
       <h2 className="legal-heading">이용자의 권리</h2>
       <p className="legal-paragraph">
-        [연락처 이메일]로 문의하시면 보유 중인 개인정보 열람, 정정, 삭제를 요청하실 수 있습니다.
+        soothingmintt@gmail.com로 문의하시면 보유 중인 개인정보 열람, 정정, 삭제를 요청하실 수 있습니다.
       </p>
 
       <h2 className="legal-heading">방침의 변경</h2>

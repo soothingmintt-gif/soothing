@@ -15,8 +15,8 @@ export function TermsPage() {
         <p className="legal-updated">Last updated: {lastUpdated}</p>
 
         <p className="legal-paragraph">
-          These Terms govern your use of Yumming (the "Service"), operated by [Business/Operator name]. By using the
-          Service, you agree to these Terms.
+          These Terms govern your use of Yumming (the "Service"), individually operated. By using the Service, you
+          agree to these Terms.
         </p>
 
         <h2 className="legal-heading">1. The Service</h2>
@@ -41,7 +41,7 @@ export function TermsPage() {
 
         <h2 className="legal-heading">4. Limitation of liability</h2>
         <p className="legal-paragraph">
-          To the extent permitted by law, [Business/Operator name] is not liable for any indirect, incidental, or
+          To the extent permitted by law, Yumming's operator is not liable for any indirect, incidental, or
           consequential damages arising from your use of the Service, including decisions made based on restaurant
           recommendations or reviews.
         </p>
@@ -59,7 +59,7 @@ export function TermsPage() {
         </p>
 
         <h2 className="legal-heading">7. Contact</h2>
-        <p className="legal-paragraph">Questions about these Terms can be sent to [contact email].</p>
+        <p className="legal-paragraph">Questions about these Terms can be sent to soothingmintt@gmail.com.</p>
       </div>
     )
   }
@@ -70,8 +70,8 @@ export function TermsPage() {
       <p className="legal-updated">최종 수정일: {lastUpdated}</p>
 
       <p className="legal-paragraph">
-        본 약관은 [사업자명/운영자명]이 제공하는 Yumming(이하 "서비스")의 이용과 관련하여 필요한 사항을 정합니다.
-        서비스를 이용함으로써 본 약관에 동의하는 것으로 간주됩니다.
+        본 약관은 개인이 운영하는 Yumming(이하 "서비스")의 이용과 관련하여 필요한 사항을 정합니다. 서비스를
+        이용함으로써 본 약관에 동의하는 것으로 간주됩니다.
       </p>
 
       <h2 className="legal-heading">1. 서비스 내용</h2>
@@ -95,8 +95,8 @@ export function TermsPage() {
 
       <h2 className="legal-heading">4. 책임의 제한</h2>
       <p className="legal-paragraph">
-        관계 법령이 허용하는 범위 내에서, [사업자명/운영자명]은 서비스 이용(추천 정보나 리뷰에 근거한 의사결정
-        포함)으로 발생한 간접적·부수적 손해에 대해 책임을 지지 않습니다.
+        관계 법령이 허용하는 범위 내에서, Yumming 운영자는 서비스 이용(추천 정보나 리뷰에 근거한 의사결정 포함)으로
+        발생한 간접적·부수적 손해에 대해 책임을 지지 않습니다.
       </p>
 
       <h2 className="legal-heading">5. 광고</h2>
@@ -111,7 +111,7 @@ export function TermsPage() {
       </p>
 
       <h2 className="legal-heading">7. 문의</h2>
-      <p className="legal-paragraph">본 약관에 대한 문의는 [연락처 이메일]로 보내주시기 바랍니다.</p>
+      <p className="legal-paragraph">본 약관에 대한 문의는 soothingmintt@gmail.com로 보내주시기 바랍니다.</p>
     </div>
   )
 }
