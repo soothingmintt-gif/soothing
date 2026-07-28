@@ -1,7 +1,6 @@
-# Replace https://yumming.example below with the real production domain once deployed.
 User-agent: *
 Allow: /
 Disallow: /archive
 Disallow: /me
 
-Sitemap: https://yumming.example/sitemap.xml
+Sitemap: https://soothing-dun.vercel.app/sitemap.xml
